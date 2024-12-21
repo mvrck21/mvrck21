@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrck21&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrck21&theme=tokyonight&show_icons=true&hide=html,css)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrck21"/>
