@@ -4,4 +4,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,dart,lua)](https://skillicons.dev)
 
 ## Frameworks I prefer
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,flask,flutter,love2d)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,flask,flutter)](https://skillicons.dev)
